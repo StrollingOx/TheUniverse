@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<universe>
+    <galaxies_names>
+        <galaxy_name>MyLittleGalaxy</galaxy_name>
+    </galaxies_names>
+    <galaxies>
+        <galaxy>
+            <name>New Galaxy</name>
+            <type>Spiral</type>
+            <star_count>3</star_count>
+            <star_names>
+                <star_name>StarOne</star_name>
+                <star_name>SpookyStar</star_name>
+                <star_name>LilStar</star_name>
+            </star_names>
+            <stars>
+                <star>
+                    <name>StarOne</name>
+                    <age>10492034</age>
+                </star>
+                <star>
+                    <name>SpookyStar</name>
+                    <age>14</age>
+                </star>
+                <star>
+                    <name>LilStar</name>
+                    <age>399</age>
+                </star>
+            </stars>
+        </galaxy>
+    </galaxies>
+</universe>
